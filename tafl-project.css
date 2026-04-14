@@ -16,4 +16,4 @@ body { font-family: 'Inter', sans-serif; }
     70% { transform: scale(1.05); box-shadow: 0 0 0 10px rgba(59, 130, 246, 0); }
     100% { transform: scale(1); box-shadow: 0 0 0 0 rgba(59, 130, 246, 0); }
 }
-.error-input { transition: all 0.3s; }
+.error-input { transition: all 0.3s; }
